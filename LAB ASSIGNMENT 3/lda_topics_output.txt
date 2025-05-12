@@ -1,0 +1,4 @@
+Topic 0: 0.024*"encrypt" + 0.017*"chip" + 0.012*"system" + 0.012*"use" + 0.011*"key" + 0.010*"privaci" + 0.010*"clipper" + 0.010*"anonym" + 0.010*"inform" + 0.010*"program"
+Topic 1: 0.009*"year" + 0.007*"go" + 0.007*"like" + 0.007*"know" + 0.007*"would" + 0.006*"time" + 0.005*"look" + 0.005*"think" + 0.005*"well" + 0.005*"back"
+Topic 2: 0.005*"istanbul" + 0.003*"trinomi" + 0.003*"ermeni" + 0.003*"printf" + 0.002*"ankara" + 0.002*"negev" + 0.002*"bayonet" + 0.002*"osmanli" + 0.001*"onam" + 0.001*"scand"
+Topic 3: 0.011*"peopl" + 0.010*"would" + 0.007*"govern" + 0.006*"secur" + 0.005*"know" + 0.005*"right" + 0.005*"think" + 0.004*"state" + 0.004*"public" + 0.004*"make"
